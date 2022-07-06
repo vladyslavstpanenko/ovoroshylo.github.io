@@ -8735,3 +8735,12 @@ a:hover, a:active {
 .single-contact-info p a:hover {
   color: #e9204f;
 }
+
+.img_about {
+  width: 80%
+}
+
+.mock-up-thumb {
+  display: flex;
+  justify-content: center;
+}
